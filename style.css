@@ -1,6 +1,16 @@
-body {background-color: black;
-color: white;}
+body {background-color: #e6ffff;
+color: black;}
 #cool{
 
-	color: #ccffff;
+	color:black;
 }
+.sidebar{background-color:#fff;}
+.title{ background-color: blue;
+height: 60px;
+width: 100%;}
+
+.container{position: relative;}
+.sidebare{ position: absolute;
+top: 0px
+left:180px}
+
